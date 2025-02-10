@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e538b286e3e0d243ba39dcab05f548a, type: 3}
+  m_Name: Sport2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - C
+    - W
+    - G
+    - N
+    - I
+    - L
+    - C
+    - Y
+    - C
+    - K
+  - Size: 10
+    Row:
+    - N
+    - N
+    - I
+    - O
+    - R
+    - M
+    - T
+    - E
+    - F
+    - H
+  - Size: 10
+    Row:
+    - B
+    - L
+    - P
+    - O
+    - E
+    - B
+    - H
+    - Y
+    - O
+    - E
+  - Size: 10
+    Row:
+    - A
+    - Y
+    - M
+    - W
+    - I
+    - L
+    - V
+    - C
+    - O
+    - Q
+  - Size: 10
+    Row:
+    - S
+    - R
+    - U
+    - G
+    - R
+    - O
+    - K
+    - R
+    - T
+    - G
+  - Size: 10
+    Row:
+    - E
+    - M
+    - J
+    - V
+    - R
+    - E
+    - A
+    - I
+    - B
+    - N
+  - Size: 10
+    Row:
+    - B
+    - P
+    - Z
+    - I
+    - Y
+    - F
+    - C
+    - C
+    - A
+    - X
+  - Size: 10
+    Row:
+    - A
+    - W
+    - O
+    - F
+    - P
+    - B
+    - Z
+    - K
+    - L
+    - L
+  - Size: 10
+    Row:
+    - L
+    - I
+    - W
+    - L
+    - I
+    - T
+    - R
+    - E
+    - L
+    - C
+  - Size: 10
+    Row:
+    - L
+    - P
+    - K
+    - D
+    - M
+    - H
+    - N
+    - T
+    - G
+    - G
+  SearchWords:
+  - Word: FOOTBALL
+  - Word: CYCLING
+  - Word: BASEBALL
+  - Word: CRICKET
+  - Word: HOCKEY
+  - Word: JUMPING

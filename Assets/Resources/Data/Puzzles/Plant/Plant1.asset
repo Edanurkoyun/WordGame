@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e538b286e3e0d243ba39dcab05f548a, type: 3}
+  m_Name: Plant1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - Q
+    - C
+    - E
+    - G
+    - N
+    - A
+    - R
+    - O
+    - A
+  - Size: 10
+    Row:
+    - S
+    - E
+    - P
+    - P
+    - O
+    - O
+    - O
+    - D
+    - P
+    - F
+  - Size: 10
+    Row:
+    - T
+    - O
+    - M
+    - X
+    - E
+    - M
+    - A
+    - I
+    - M
+    - B
+  - Size: 10
+    Row:
+    - S
+    - Y
+    - Y
+    - H
+    - Y
+    - E
+    - K
+    - I
+    - Z
+    - D
+  - Size: 10
+    Row:
+    - O
+    - E
+    - R
+    - C
+    - D
+    - L
+    - T
+    - V
+    - A
+    - W
+  - Size: 10
+    Row:
+    - D
+    - Q
+    - E
+    - W
+    - R
+    - D
+    - R
+    - C
+    - Q
+    - T
+  - Size: 10
+    Row:
+    - B
+    - X
+    - E
+    - R
+    - Y
+    - N
+    - D
+    - L
+    - C
+    - P
+  - Size: 10
+    Row:
+    - V
+    - C
+    - S
+    - U
+    - T
+    - C
+    - A
+    - C
+    - E
+    - O
+  - Size: 10
+    Row:
+    - W
+    - S
+    - E
+    - K
+    - P
+    - V
+    - S
+    - B
+    - I
+    - L
+  - Size: 10
+    Row:
+    - Z
+    - L
+    - P
+    - D
+    - B
+    - C
+    - Y
+    - X
+    - Q
+    - H
+  SearchWords:
+  - Found: 0
+    Word: CACTUS
+  - Found: 0
+    Word: ORANGE
+  - Found: 0
+    Word: LEMON
+  - Found: 0
+    Word: TREE

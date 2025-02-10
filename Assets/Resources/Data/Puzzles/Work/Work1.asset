@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e538b286e3e0d243ba39dcab05f548a, type: 3}
+  m_Name: Work1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 200
+  Columns: 7
+  Rows: 7
+  Board:
+  - Size: 7
+    Row:
+    - S
+    - W
+    - B
+    - W
+    - S
+    - N
+    - E
+  - Size: 7
+    Row:
+    - L
+    - M
+    - R
+    - A
+    - J
+    - C
+    - Z
+  - Size: 7
+    Row:
+    - I
+    - I
+    - N
+    - E
+    - K
+    - H
+    - U
+  - Size: 7
+    Row:
+    - L
+    - Y
+    - U
+    - N
+    - R
+    - E
+    - K
+  - Size: 7
+    Row:
+    - B
+    - V
+    - R
+    - D
+    - R
+    - F
+    - R
+  - Size: 7
+    Row:
+    - W
+    - G
+    - S
+    - A
+    - T
+    - D
+    - L
+  - Size: 7
+    Row:
+    - D
+    - R
+    - E
+    - C
+    - N
+    - A
+    - D
+  SearchWords:
+  - Word: CHEF
+  - Word: NURSE
+  - Word: BAKER
+  - Word: DANCER

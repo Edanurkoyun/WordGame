@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e538b286e3e0d243ba39dcab05f548a, type: 3}
+  m_Name: Food2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 150
+  Columns: 7
+  Rows: 7
+  Board:
+  - Size: 7
+    Row:
+    - U
+    - I
+    - H
+    - S
+    - U
+    - S
+    - S
+  - Size: 7
+    Row:
+    - J
+    - C
+    - W
+    - M
+    - T
+    - Z
+    - V
+  - Size: 7
+    Row:
+    - E
+    - J
+    - U
+    - I
+    - C
+    - E
+    - H
+  - Size: 7
+    Row:
+    - S
+    - I
+    - E
+    - L
+    - S
+    - S
+    - A
+  - Size: 7
+    Row:
+    - M
+    - T
+    - E
+    - K
+    - A
+    - C
+    - C
+  - Size: 7
+    Row:
+    - V
+    - J
+    - K
+    - O
+    - X
+    - M
+    - U
+  - Size: 7
+    Row:
+    - L
+    - V
+    - A
+    - E
+    - Z
+    - Z
+    - K
+  SearchWords:
+  - Word: MILK
+  - Word: SUSHI
+  - Word: CAKE
+  - Word: JUICE

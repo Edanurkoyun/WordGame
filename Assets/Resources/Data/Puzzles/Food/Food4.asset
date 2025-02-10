@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e538b286e3e0d243ba39dcab05f548a, type: 3}
+  m_Name: Food4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - R
+    - A
+    - X
+    - B
+    - C
+    - K
+    - V
+    - Y
+    - Y
+  - Size: 10
+    Row:
+    - Y
+    - W
+    - B
+    - T
+    - U
+    - N
+    - O
+    - D
+    - O
+    - T
+  - Size: 10
+    Row:
+    - H
+    - R
+    - Y
+    - Z
+    - T
+    - J
+    - G
+    - G
+    - U
+    - H
+  - Size: 10
+    Row:
+    - S
+    - C
+    - V
+    - C
+    - T
+    - T
+    - H
+    - J
+    - L
+    - X
+  - Size: 10
+    Row:
+    - Q
+    - V
+    - D
+    - F
+    - E
+    - U
+    - W
+    - L
+    - U
+    - R
+  - Size: 10
+    Row:
+    - S
+    - Q
+    - U
+    - N
+    - R
+    - P
+    - A
+    - A
+    - W
+    - I
+  - Size: 10
+    Row:
+    - W
+    - Y
+    - Y
+    - T
+    - N
+    - I
+    - F
+    - F
+    - U
+    - M
+  - Size: 10
+    Row:
+    - A
+    - L
+    - W
+    - X
+    - S
+    - H
+    - F
+    - V
+    - K
+    - K
+  - Size: 10
+    Row:
+    - N
+    - D
+    - B
+    - A
+    - G
+    - E
+    - L
+    - Q
+    - J
+    - Y
+  - Size: 10
+    Row:
+    - C
+    - E
+    - Z
+    - B
+    - Q
+    - S
+    - E
+    - K
+    - V
+    - F
+  SearchWords:
+  - Word: DONUT
+  - Word: BUTTER
+  - Word: YOGHURT
+  - Word: WAFFLE
+  - Word: MUFFIN
+  - Word: BAGEL

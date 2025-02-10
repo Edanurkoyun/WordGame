@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c20a5a9190ff804daa8b303623ae6ca, type: 3}
+  m_Name: Game Level Data
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: Food
+    boardData:
+    - {fileID: 11400000, guid: fcc94bd07e9aeaf44b76aa012123c64e, type: 2}
+    - {fileID: 11400000, guid: 82be2baf5cea7f8498d460f8269ed169, type: 2}
+    - {fileID: 11400000, guid: b3e81fc2debb776429102ea514f1f941, type: 2}
+    - {fileID: 11400000, guid: 81a1398eec361334eb3a14f16363eb55, type: 2}
+  - categoryName: Animals
+    boardData:
+    - {fileID: 11400000, guid: 2fac2abbd6e36574db01604b8b50fc6f, type: 2}
+    - {fileID: 11400000, guid: bcfcbe9dd6c1bb24fb7e613448f4a789, type: 2}
+  - categoryName: Sport
+    boardData:
+    - {fileID: 11400000, guid: 9e62b689aff727e4182062bbfa76b806, type: 2}
+    - {fileID: 11400000, guid: 2755b37ceb0ba854c9c364d8e7eb9a67, type: 2}
+  - categoryName: Hobbies
+    boardData:
+    - {fileID: 11400000, guid: 464377ad33e2e734ea4dac0634d67093, type: 2}
+    - {fileID: 11400000, guid: f3ac52822c684ae4ea8da228267f6fbd, type: 2}
+  - categoryName: Work
+    boardData:
+    - {fileID: 11400000, guid: 90d080bbda9f4b24386ab9c22c84d09b, type: 2}
+    - {fileID: 11400000, guid: c3ba46f862eda394888b8d9465fc5a4f, type: 2}
+  - categoryName: Countries
+    boardData:
+    - {fileID: 11400000, guid: 0dd712431a005614085d608f49b35d2b, type: 2}
+    - {fileID: 11400000, guid: 5526d7b5e5818f14b9cfd70a5eeb2fe7, type: 2}
+  - categoryName: Plant
+    boardData:
+    - {fileID: 11400000, guid: 86409936b53e76744b525fe0aaf985e6, type: 2}
+  - categoryName: Countries
+    boardData:
+    - {fileID: 11400000, guid: 0dd712431a005614085d608f49b35d2b, type: 2}
+    - {fileID: 11400000, guid: 5526d7b5e5818f14b9cfd70a5eeb2fe7, type: 2}
